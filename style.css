@@ -13,3 +13,8 @@ p{
 #hexa{
     color: #8a8a8a;
 }
+
+#enfatizar{
+    font-size: 25px;
+    background-color: chartreuse;
+}
